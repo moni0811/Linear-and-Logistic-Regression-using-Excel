@@ -66,7 +66,7 @@ Logistic models were used to classify whether batches met a **quality threshold 
 
 ## 📁 Repository URL
 
-> GitHub Repository: [https://github.com/yourusername/manufacturing-quality-prediction]([https://github.com/yourusername/manufacturing-quality-prediction](https://github.com/moni0811/Linear-and-Logistic-Regression-using-Excel.git))
+> GitHub Repository: [https://github.com/moni0811/Linear-and-Logistic-Regression-using-Excel]([https://github.com/yourusername/manufacturing-quality-prediction])
 
 ---
 
